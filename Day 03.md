@@ -79,16 +79,21 @@ Then answers these questions:
 HW
 ---------------------------------------
 
-1. **User Flows**
+1. **Read [Keeping the Goal in Sight While Designing Component Flows](http://feltpresence.com/articles/17-keeping-the-goal-in-sight-while-designing-component-flows)**
 
-	asdf
-
-
-2. **Mood Boards**
-
-	asdf
+	It's short! We'll talk about it next class, so make sure you read it. 
 
 
-3. **Website Review**
+2. **Component/User Flows**
 
-	asfasfd
+	Using the method that Ryan Singer pointed out in today's article, draw out the user flows for at least the three main forms of interaction that your site will have. If your users have a lot of options or choices at a given point, try your best to get all of them, but go for the options that are most common.
+
+
+3. **Mood Boards**
+
+	Create a mood board that has at least thirty (30) pieces of inspiration and/or attributes that you want to include in your site designs. These should include font choices, color palettes, imagery, and at least three websites that have features or styles that you want to borrow from. I don't want you just copying what other people have done, but you might as well try to imitate the features that make a good design look good.
+
+
+4. **Website Review**
+
+	Find a site that exhibits what you think of as good web design, and write ten things you like about it. You can comment on aesthetics, usability, interesting navigation structures, typography… whatever. Post your synopsis along with a working link and as many screenshots as necessary to demonstrate your points.

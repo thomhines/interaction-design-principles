@@ -96,9 +96,24 @@ Week 6 - Simplifying Experiences
 ### Day 11
 - Full Class Crits
 #### HW 
+- Read [Emotion and Flow](http://boxesandarrows.com/design-for-emotion-and-flow/)
+- Project 1 Self-Evaluation
+
 
 ### Day 12
+- Discuss Flow
+- Play Games
+	- Banagrams
+	- Taboo
+	- Great Dalmuti
+
+
+
 #### HW 
+- Read Rules of Play, Chapter 6 (Interactivity)
+- Watch Indie Movie
+- Play a strategy game
+
 
 
 
@@ -179,4 +194,3 @@ Week 10 - *Work*
 
 ### Day 20
 - Play Testing (Final Crits?)
-

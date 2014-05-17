@@ -83,8 +83,16 @@ Project 3 - Designing for Play
 	- Emergent Play
 
 ### Readings
-- Mario Bros. Level Design
+- [Design for Emotion and Flow](http://boxesandarrows.com/design-for-emotion-and-flow/)
+- [Mario Bros. Level Design](http://www.significant-bits.com/super-mario-bros-3-level-design-lessons)
 - Rules of Play
+	- Chapter 12 (Rules on Three Levels)
+		- The Kinds of Rules (Operational, Constitutive, Implicit)
+		- Designing Elegant Rules
+	- Chapter 6 (Interactivity)
+		- Interaction and Choice
+		- Anatomy of a Choice
+		- Space of Possibilities
 
 
 
@@ -97,4 +105,3 @@ Mini Presentations
 
 State of Flow
 Magic Circle
-

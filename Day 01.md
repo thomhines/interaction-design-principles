@@ -43,13 +43,29 @@ CLASS
 ### Introduce Project 1
 
 #### Examples
+- [Redsgned](http://redsgned.com/)(List of tons of redesigned projects/sites)
 - [Facebook Redesign](http://nerby.com/project/facebook/)
+- [Wikipedia Redesign Concept](http://wikipedia.gkvasnikov.com/)
 - [The Future of Airline Websites](http://www.f-i.com/fi/airlines/)
-
-
-
-
-
+- [Google Redesign](http://www.lettersociety.com/tagged/Project-9)
+- [Skype](http://www.justalever.com/work/skype-redesign/)
+- [LinkedIn](http://www.justalever.com/work/linkedin-casestudy/)
+- [GQ](https://dribbble.com/shots/1478578-GQ-Redesign)
+- [Medium](https://dribbble.com/shots/1499075-Medium-com-Design)
+- [Last.fm](https://dribbble.com/shots/1130772-Last-fm-redesign?list=show&tag=redesign)
+- [United Airlines](https://www.behance.net/gallery/United-Airlines-Website-Redesign/14246563)
+- [Google](https://www.behance.net/gallery/13138489/Google-Redesign-Concept)
+- [Gmail](https://www.behance.net/gallery/Gmail-Redesign-Concept/14412073)
+- [Instagram](https://www.behance.net/gallery/Instagram-Revise-A-new-interaction-concept/11011689)
+- [Yahoo](http://www.behance.net/gallery/7385023/Yahoocom)
+- [Instagram](http://www.behance.net/gallery/7579791/Instagramcom)
+- [Twitter](http://nerby.com/project/twitter/)
+- [IMDB](https://medium.com/p/2e9e865dd83)
+- [Twitter](http://cargocollective.com/mikeramos/Twitter-Redesign-2014)
+- [NBA.com](https://dribbble.com/Berkanism/tags/nba)
+- [Netflix for iPad](http://youilabs.com/blog/rethinking-netflix-ipad/)
+- [IMDB](https://dribbble.com/shots/472078-IMDB-unofficial-redesign)
+- [Amazon](https://dribbble.com/shots/464528-Amazon-com-redesign)
 
 
 
