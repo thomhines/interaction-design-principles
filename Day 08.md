@@ -20,6 +20,8 @@ CLASS
 
 - Paragraph/Character Styles
 - Symbols/Symbols Libraries
+	- Use to create multiple copies of same page with slight differences
+	- 9-slice scaling
 	- [Flat Web UI Illustrator Symbol Library](http://teaching.thomhines.com/resources/Flat%20Web%20UI.ai)
 	- [GUI Web Design Symbols](http://www.webalys.com/design-interface-application-framework.php)
 - Images (How to replicate some of the functionality of InDesign, such as masks)

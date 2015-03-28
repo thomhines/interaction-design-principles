@@ -66,6 +66,9 @@ CLASS
 - [Netflix for iPad](http://youilabs.com/blog/rethinking-netflix-ipad/)
 - [IMDB](https://dribbble.com/shots/472078-IMDB-unofficial-redesign)
 - [Amazon](https://dribbble.com/shots/464528-Amazon-com-redesign)
+- [iTunes](http://kurocha.blogspot.jp/)
+- [MIcrosoft](http://collinhartigan.com/microsoft-redesign/)
+- [Photoshop](https://www.behance.net/gallery/19600227/Photoshop-redesign) Maybe don't include?
 
 
 

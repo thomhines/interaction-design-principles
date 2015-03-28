@@ -95,7 +95,7 @@ HW
 Next class is cancelled, so you have a week to finish today's homework. Enjoy your week and I can't wait to see what games you make for next class!
 
 
-1. **Read [Rules of Play, Chapter 3](http://teaching.thomhines.com/resources/Rules_of_Play_Chapter_3.pdf)**
+1. **Read [Rules of Play, Chapter 12](http://teaching.thomhines.com/resources/Rules_of_Play_Chapter_3.pdf)** Maybe chapter 3 instead?
 
 	These concepts will drive the way in which you construct your game's rules, so definitely read up on it as soon as you can.
 

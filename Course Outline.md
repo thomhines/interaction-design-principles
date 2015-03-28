@@ -6,10 +6,10 @@ Week 1 - Web Foundations
 ### Day 1
 - Syllabus
 - Introduce Project 1 (Due 4/21, beginning of week 4)
+- Discuss Web Apps vs. Web Sites
 
 #### HW
 - Pick Web Site
-- Discuss Web Apps vs. Web Sites
 - Initial Ideation and Research
 
 
@@ -20,9 +20,7 @@ Week 1 - Web Foundations
 
 #### HW
 - Research and Objectives
-- User Flow
 - Wireframes
-- Website Review
 
 
 
@@ -34,6 +32,8 @@ Week 2 - Design Patterns and Animation
 
 #### HW
 - Start Making Comps
+- User Flow
+- Website Review
 
 
 
@@ -43,14 +43,16 @@ Week 2 - Design Patterns and Animation
 
 #### HW
 - Convert your interface into Keynote
+- Create 3 Design Directions
 
 
-Week 3 - Design Patterns and Trends
+Week 3 - Design Trends
 ---------------------------------------
 ### Day 5
 - Full Class Crits
 
 #### HW
+- Read Article on Behavior Design
 - Refine Comps
 
 
@@ -59,55 +61,70 @@ Week 3 - Design Patterns and Trends
 - Work Session and Feedback
 
 #### HW
-- Finish Project 1
+- Continue Work on Project 1
 
 
 
-Week 4 - *Work*
+Week 4 - Skills and Tools
 ---------------------------------------
 ### Day 7 
-- **Project 1 Crits**
-- Introduce Project 2 (Due 5/12, beginning of week 7)
+- Full Class Crit
+
+#### HW
+- Continue Work on Project 1
+
 
 ### Day 8 
+- Designing for the Web in Illustrator
+- Presenting UI
 
 #### HW 
-- Pick Interface
-- Objectives Survey
-- Research?
+- Read Articles on Visceral Apps and Discoverability
+- Create a Script for Project 1 Presentation
+- Continue Work on Project 1
 
 
 
-Week 5 - UX Objectives
+Week 5 - Work
 ---------------------------------------
 ### Day 9
+- Practice Presenting
+- One-on-one Feedback
+- Work Session
+
 #### HW 
+- Continue Work on Project 1
+- Create Presentation Slides
 
 
 
 ### Day 10
+- One-on-one Feedback
+- Work Session
+
 #### HW 
+- Finish Project 1
 
 
 
 
-Week 6 - Simplifying Experiences
+Week 6 - Games as Interactive Systems
 ---------------------------------------
 ### Day 11
-- Full Class Crits
+- Project 1 Critique
+
 #### HW 
-- Read [Emotion and Flow](http://boxesandarrows.com/design-for-emotion-and-flow/)
 - Project 1 Self-Evaluation
+- Read Article Emotion and Flow
+- Play a Game
 
 
 ### Day 12
 - Discuss Flow
 - Play Games
-	- Banagrams
+	- Bananagrams
 	- Taboo
 	- Great Dalmuti
-
-
 
 #### HW 
 - Read Rules of Play, Chapter 6 (Interactivity)
@@ -117,72 +134,68 @@ Week 6 - Simplifying Experiences
 
 
 
-Week 7 - Games!
+Week 7 - User Agency and Meaningful Choice
 ---------------------------------------
 
 ### Day 13 
-- **Project 2 Crits**
-- Introduce Project 3
-- Pick groups for Project 3
+- Discuss Interactivity, Game Mechanics, and Meaningful Choice
+- Design and Play Test Games in Small Groups
 
 #### HW
-- Play a game
+- Read Rules of Play, Chapter 12 (Levels of Choice and Control)
 
 
 
 
 ### Day 14 
-- Game Day
-	- War
-	- Pig (dice betting game)
-	- Love Letter
-	- Settlers of Catan
-	- Risistance
-	- Telestrations
+- Play Test Games
+- Begin Work on Final Game
 	
-
+#### HW
 - Read [Super Mario Bros 3 Level Design Lessons](http://www.significant-bits.com/super-mario-bros-3-level-design-lessons)
-- Watch Indie Game the Movie
-- Play a game
+- Refine Game Rules
 
 
-Week 8 - User Choice
+Week 8 - Strategy
 ---------------------------------------
 ### Day 15 
 - Play Testing
 
 #### HW
-
-- Rough Prototypes
-
+- Introduce Strategic Elements into Game Rules
+- Create a Game Narrative
 
 
 
 ### Day 16
+- Discuss Strategy
 - Work Day
 
 #### HW
-- Rough Protoypes
-- Write the Rules
+- Refine and Write Down Game Rules
 - Mood Boards
 - Initial Comps
 
 
 
 
-Week 9 - Feedback
+Week 9 - System Feedback
 ---------------------------------------
 ### Day 17
-- NO CLASS - Memorial Day
+- Full Class Critique
+
+#### HW
+- Continue with Project 2
 
 
 
 ### Day 18
-- Play Testing (but with no talking, rules must be read from rule sheet)
+- Discuss User and System Feedback
+- Play Testing (but with no explaining, rules must be read from rule sheet)
 
 #### HW
 - Refine the Rules
-- Integrate designs into game
+- Integrate Designs into Game
 
 
 
@@ -190,7 +203,16 @@ Week 9 - Feedback
 Week 10 - *Work*
 ---------------------------------------
 ### Day 19
+- Play Testing
 - Work Day
 
+#### HW
+- Continue with Project 2
+
+
 ### Day 20
-- Play Testing (Final Crits?)
+- Play Testing
+- Work Day
+
+#### HW
+- Continue with Project 2

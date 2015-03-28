@@ -1,7 +1,7 @@
-ART 410 - Day 20
+ART 410 - Day 17
 =======================================
 
-1. No Class - Sophomore Portfolio Review
+1. No Class - Memorial Day
 
 
 PREP
@@ -12,7 +12,7 @@ PREP
 CLASS
 ---------------------------------------
 
-### No Class - Sophomore Portfolio Review
+### No Class - Memorial Day
 
 
 HW
