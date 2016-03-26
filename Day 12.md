@@ -1,4 +1,4 @@
-ART 299 - Day 12
+Day 12
 =======================================
 
 1. Final Crits
@@ -23,8 +23,31 @@ Based on [Design for Emotion and Flow](http://boxesandarrows.com/design-for-emot
 - And how can this be applied to design? (creating clear tasks/objectives, building arousal elements to the anxiety level of your users, expanding challenge and ability as proficiency increases)
 
 
+
+
+### Play Games
+- [Flappy Bird](http://www.freeflappybird.org/)
+- Tic Tac Toe
+- Banagrams
+- Taboo
+
+Discussion:
+- Which games provide the closest thing to flow?
+- What were the objectives?
+- What about these games make them work or not?
+- What are the kinds of choices players could make in each game?
+- Why do we care as designers?
+
+
+
+##### Break
+
+
+
+
 ### Discuss Flow and User Agency/Choice
 
+In many ways, Flow = Good User Experience. 
 
  #### Games Homework
 - What games did you guys play?
@@ -38,22 +61,14 @@ Based on [Design for Emotion and Flow](http://boxesandarrows.com/design-for-emot
 
 
 
-### Play Games
-- Tic Tac Toe
-- [Flappy Bird](http://flappybird.io/)
-- Banagrams
-- Taboo
-- Particle Mace
 
-Go over [Super Mario Bros 3 Level Design Lessons](http://www.significant-bits.com/super-mario-bros-3-level-design-lessons)
+### Go over [Super Mario Bros 3 Level Design Lessons](http://www.significant-bits.com/super-mario-bros-3-level-design-lessons)
+Have students read traits as I play through the level on my screen.
+
 - How is increasing complexity used to induce flow?
 - How is increasing complexity used to increase skill level?
 
 
-Discussion:
-- Which games provide the closest thing to flow?
-- What about these games make them work or not?
-- What are the kinds of choices players could make in each game?
 
 
 
@@ -72,12 +87,15 @@ Oh my! What a day! Games are fun. Hope you enjoyed them, too. Here's your homewo
 
 	There are few documentaries that I've liked as much as this one. It doesn't just talk about the game design process; the ideas here are can easily be applied process for any creative endeavor. Plus, you get to watch a movie for homework.
 
-	[Netflix](http://www.netflix.com/WiMovie/70229918?movieid=70229918&trkid=222336&strkid=1928561577_0_0) (free, requires account) | [Amazon](http://www.amazon.com/Indie-Game-Movie-Jonathan-Blow/dp/B008DGRG28) (not free)
+	[Netflix](http://www.netflix.com/WiMovie/70229918?movieid=70229918&trkid=222336&strkid=1928561577_0_0) (free, requires account) | [Amazon](http://www.amazon.com/Indie-Game-Movie-Jonathan-Blow/dp/B008DGRG28) ($3)
 
 
 3. **Make a Game**
 
 	Take a game that only uses pencil and paper ([here](http://boardgames.about.com/od/paperpencil/) is a good list to draw from), and modify it's rules so that it encourages a state of flow. Write out the rules and post them to the blog.
 
+
+### Useful Links
+- [Super Mario Bros 3 Level Design Lessons](http://www.significant-bits.com/super-mario-bros-3-level-design-lessons)
 
 	

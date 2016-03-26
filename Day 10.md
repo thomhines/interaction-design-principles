@@ -15,6 +15,11 @@ PREP
 CLASS
 ---------------------------------------
 
+### Housecleaning
+
+- Post HW!
+
+
 ### Small Group Crits
 Practice Presentations
 

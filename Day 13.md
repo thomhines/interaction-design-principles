@@ -1,8 +1,5 @@
-ART 299 - Day 13
+Day 13
 =======================================
-
-1. Final Crits
-
 
 
 
@@ -19,8 +16,11 @@ CLASS
 Based on Rules of Play, Chapter 6 (Interaction)
 - What is interactivity? (could be based on a number of definitions on Page 2, or one of the four modes: 1) Cognitive interactivity; or interpretive participation, 2) Functional interactivity; or utilitarian participation, 3) Explicit interactivity; or participation with designed choices and procedures, 4) Beyond-the-object-interactivity; or participation within the culture of the object)
 
-- What is meant by "meaningful" interactions? (one in which a player/user has *choice*)
+- What is meant by "meaningful" interactions? (one in which a player/user has *choice*, actions lead directly to real outcomes)
 	- What are some examples, from the book or otherwise?
+
+- What are the difference between tactics and strategy?
+
 
 - What is the "anatomy" of an interaction? (What happened before, how the choice is conveyed to the user, how does the user make their choice, what is the result of the choice, and how is the result conveyed to the user)
 
@@ -28,9 +28,16 @@ Based on Rules of Play, Chapter 6 (Interaction)
 
 
 
+### Discuss Indie Game: The Movie
+
+- In Super Meat Boy (~36min), the designer talked about level design, such as making a level that is just a long gap that requires running to get over, or a solid wall that requires wall climbing. This builds skills through design (instead of text), and gives the user a bigger sense of mastery since they figured it out themselves.
+
+- Fez: It's easy to get caught up in endless iterations. Don't let the perfect become the enemy of the necessary.
+
+
+
 
 ### Discuss Interactivity, Game Mechanics, and Meaningful Choice
-
 
 
 - War
@@ -44,12 +51,6 @@ Based on Rules of Play, Chapter 6 (Interaction)
 	- How are these choices meaningful?
 	- What are the game mechanics? What are the types of interactions (according to the four modes)?
 
-- Settlers of Catan
-	- What are the game Mechanics?
-	- What aspects do the players have control over?
-	- How is this balanced?
-	- Does this game have a positive or a negative feedback loop?
-
 - Dominion
 	- What choices do the users have?
 	- What are the mechanics of the game?
@@ -61,19 +62,33 @@ Split Groups up into teams of 3, and then have them play test their games.
 
 
 Team 1: 
-Dylan
-Sean
-Tim W.
+
+Elya
+Denise
+Christina
+Brad
+
+
 
 Team 2: 
-Sadie
-Tyler
-Tim K.
+
+Shannon
+Jamon
+Rudy
+
 
 Team 3: 
-Megan
-Danielle
-Brian
+
+Cameron
+Sam
+Sofia
+Collin
+
+
+Team 4: 
+Richard
+Erin
+Steph
 
 
 
@@ -82,7 +97,7 @@ Brian
 
 Using at least two of the game items (dice, cards, chess board, go board, scrabble tiles, rummikub tiles, maps, tokens, poker chips, character pieces, etc.), create a new game that uses both mechanics to create the randomly chosen emotion (fear, anger, anxiety, happiness, etc.) that each group received.
 
-
+NOTE: Games should be able to be played in 20 minutes!
 
 
 
@@ -92,18 +107,9 @@ Using at least two of the game items (dice, cards, chess board, go board, scrabb
 HW
 ---------------------------------------
 
-Next class is cancelled, so you have a week to finish today's homework. Enjoy your week and I can't wait to see what games you make for next class!
-
-
-1. **Read [Rules of Play, Chapter 12](http://teaching.thomhines.com/resources/Rules_of_Play_Chapter_3.pdf)** Maybe chapter 3 instead?
-
-	These concepts will drive the way in which you construct your game's rules, so definitely read up on it as soon as you can.
-
-
-
 1. **Create a Game**
 
-	Using your game pieces and the emotion that is to guide your game, start working on the mechanics for your game. Without worrying about narrative or aesthetics, come to class next week with a playable game and a printed set of rules.
+	As a team, come up with a game that uses both dice and cards *effectively*. Remember what we talked about in class regarding what role each of those mechanics has on how a player plays. Beyond that, consider how you can use time, strategy, public/private information, meaningful choice, different interactive modes, etc. You aren't restricted from using other games' pieces, but if you build them into the rules, make sure you bring them to class so we can play test with them.
 
 
 

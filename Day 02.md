@@ -1,4 +1,4 @@
-ART 299 - Day 2
+Day 2
 =======================================
 
 1. Discuss Principles of User Interface Design
@@ -16,20 +16,36 @@ CLASS
 ---------------------------------------
 
 ### Quiz
-Based on [Dude, I Redesigned Facebook](http://will-grounds.roon.io/dude-i-redesigned-facebook)
+Based on [How to do a Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638):
 
-- Was the author generally for or against unsolicited redesigns? (both)
-- What's the problem with them?
-- What did he think they were good for?
-- What were some of his suggestions for how to approach one of these redesigns? (Work on more deserving interfaces, show sketches and wireframes, design with real content, creating a working prototype if possible)
+- What are the main periods of time that the author focuses on when evaluating an app (before you open it, the first few minutes, and weeks/months after)
+- What are some of the main considerations when critiquing an app (What’s the experience of getting started or signing up? How easy to use was the app? )
 
 
+#### Discussion
+
+Some highlights:
+- What’s your one-line summary of what this app does at this stage?
+	
+	Being able to define what your app does concisely is key to understand its core functionality. And anything beyond that core functionality just adds to the risk that your app will lose any sort of focus and be hard to be understood by its users.
+
+- How does this app compare to other similar apps?
+	
+	Knowing your competition will keep your work more original, while allowing you to work from the best ideas and leave behind the things that don't work. If you look at other people's sites as prototypes of your own, you can test your ideas without having to build a thing.
+
+- "Great experiences doesn’t just happen by happenstance. The best designers and product thinkers know people."
+	
+	Read this whole paragraph to the class.
 
 
 
 ### Housekeeping
 - Have people change their WP name to their full name (if necessary)
+- Sign Up for Be Honest
 - Questions?
+
+
+
 
 
 
@@ -43,11 +59,11 @@ Split into small groups and compare/contrast these sites:
 
 
 #### Questions
-- Overall thoughts?
-- Who are their users? 
+- Who are their primary users? secondary?
 - What is each site's main objectives?
 - Why would there be differences between them?
 - Which site would be more usable by your grandma?
+- Overall thoughts?
 
 
 #### Grade each site (1-10):
@@ -58,29 +74,16 @@ Split into small groups and compare/contrast these sites:
 
 
 
-
-
 ###### BREAK
-
-
-### Site Questionnaires
-
-- Site Questionnaires are great for understand the big picture elements of a client's needs. This is especially important so that you, as the designer, can maintain a certain amount of perspective and help control the direction the project takes.
-
-- Go over everybody's site ideas
-
-- Have each student pick one direction and answer these questions to get to the root of what they want their site to do:
-
-	1. What problem is your app trying to solve?
-	2. What are the top three objectives for your app?
-	3. Who is your primary audience? Do you have a secondary one?
-	4. What do these different groups of users need for the app to do? In other words, how do they use the app currently?
-	5. Who are your app's competitors (list at least three)? What are their main features? What makes them unique?
-	6. What is the bare minimum that *your* app needs to be functional? Would this be enough to make a useful app?
 
 
 
 ### Wireframes
+
+Examples:
+- [A Beginner’s Guide to Wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
+- [Wireframe Examples on Pinterest](https://www.pinterest.com/wireframes/great-wireframe-examples/)
+- [UI Tiles](http://pixelbuddha.net/freebie/ui-tiles-website-flowcharts)
 
 Do: 
 - Get all major content in the page
@@ -96,22 +99,39 @@ Don't:
 
 
 
+
 HW
 ---------------------------------------
 
+Another fun discussion today, everyone! I'm really impressed with the insights you were able to pull out from looking at your sites. Now we'll start to focus more on Project 1. 
 
-1. **Finish Questionnaire**
+Hope you all have a great weekend!
 
-	If you weren't here or weren't able to fininsh this in class, please copy and paste the questions from [this post](http://art342s14.wordpress.com/2014/04/02/project-1-objectives-questionnaire/) into a new post on the blog, answer the questions and hit the publish button. These questions should be answered about the web site/app that you are going to be re-designing for Project 1. 
+
+1. **Site Critique**
+
+	Answer all of the questions in this week's reading ([How to do a Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)) for your chosen Project 1 site. Post your answers/notes to WordPress.
 
 
 2. **Feature Inventory**
 
-	List out all of the features that your app has, break them into categories of those that help your users achieve their main objective and those that don't. Next, look at how your app's competitors handle these tasks and see what aspects from them could be most useful in your design. Post to the blog, along with screen shots and sketches if helpful.
+	List out all of the features that your Project 1 web app has, break them into categories of those that help your users achieve their main objective and those that don't. Next, look at how your app's competitors handle these tasks and see what aspects from them could be most useful in your design. Post to the blog, along with screen shots and sketches if helpful. This will be your list of possible features that you can incorporate into your designs.
 
 
-3. **3 Sets of Wireframes**
+3. **Check out [Original And Innovative Web Layouts](http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/)**
+
+
+4. **3 Sets of Wireframes**
 	
 	I want to see three distinct directions. You don't have to design the login screens or anything else that you'll see in most other apps, but I do want to see the layout and core interactions for the main aspects of your app.
 
-	Consider different layouts, different interactions, and different affordances in each direction. Minimum of 5 frames per direction (15 frames total).
+	Consider different layouts, different interactions, and different affordances in each direction. Minimum of 5 frames per direction (15 frames total), and don't waste time on details or anything that won't help you get your ideas down on paper.
+
+MAKE SURE TO INCLUDE YOUR GRID
+
+
+
+### Useful Links
+- [A Beginner’s Guide to Wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
+- [Wireframe Examples on Pinterest](https://www.pinterest.com/wireframes/great-wireframe-examples/)
+- [UI Tiles](http://pixelbuddha.net/freebie/ui-tiles-website-flowcharts)

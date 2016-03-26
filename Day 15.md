@@ -21,12 +21,20 @@ CLASS
 - Check your grades! You can turn in old assignments for partial credit.
 
 #### Quiz
-Based on Rules of Play, Chapter 3
+- What often makes a game feel broken? (Lack of meaningful play/choices)
+- What are core mechanics (the repeated actions you take to play a game)
+- What should we expect from every action in a game? (outcomes/feedback)
+
+
+-----
+SKIP
+Based on Rules of Play, Chapter 3 ***MOVE THIS TO THE PREVIOUS WEEK***
 - What are the three different kinds of rules? (Operational, Constitutive, Implicit)
 	- What do each of these mean? (Operational = "Rules of play", stated rules. Constitutive = Mathematical rules behind game structure. Implicity = "unwritten rules", things like take backs, being quiet during someone else's turn, etc.)
 - Which are the "real" rules of the game? (combo of Operational and Constitutive)
 	- Which do you think comes first? Which comes last?
 	- What gives a game its identity?
+-----
 
 
 ### Games as systems of information, and social play
@@ -35,19 +43,24 @@ Games establish relationships between players
 These relationships evolve as implicit rules emerge
 
 
+#### Implicit Rules
+
+Play Space Team
+Play Resistance 
+
+Afterwards:
+- What are the rules of the game?
+- What are the implied rules?
+- What sort of relationship does the game force it's players to have?
 
 
+Strategy:
 Play these games:
 - Stand Up (two people sit back to back and try to stand up. Then, a third person is added. Then a fourth...)
 - Resistance
 - Great Dalmuti
-- Space Team
 
 
-Ask these about each game:
-- What are the rules of the game?
-- What are the implied rules?
-- What sort of relationship does the game force it's players to have?
 
 
 
@@ -78,7 +91,7 @@ HW
 
 3. **Bring Game Materials**
 
-	Make sure you bring whatever you need in order to make and play your game next week. None of the materials need to be designed or colored or anything, but you should have enough to play through your game by the end of the class period.
+	Make sure you bring whatever you need in order to make and play your game next class. None of the materials need to be designed or anything, but you should have enough to play through your game by the end of the class period.
 
 
 

@@ -36,21 +36,24 @@ Based on [Visceral Apps and You](http://mysterioustrousers.com/news/2013/3/25/vi
 - Visceral elements are great for bringing people in and making good apps great, but they need to have the right cues and structure for them to be a long-term success.
 
 
+### Test InVision Prototypes
 
-#### Housekeeping
-- Mention Schnitzer Prize
+One-on-one. Switch users at least once.
 
-### Group Crits
+### Practice Presentations
 
+Practice in front of small group. Get feedback.
+
+### Work
 
 
 
 HW
 ---------------------------------------
-We missed several of you in class today! It's weird having only six students for three hours. Hope you guys are still making progress; I can't wait to see what you've got!
 
+1. **Read [Shades of Discoverability](http://alistapart.com/column/shades-of-discoverability)**
 
-1. **Finish Rough Draft Presentation**
+2. **Finish Rough Draft Presentation**
 
 	We're going to practice presenting Project 1 next class, so make sure you have a clear idea of what you want to talk about and enough screens in as many states as you need to talk about them. These don't have to be polished, but we're getting too close to the end for you not to have these pretty close to nailed down.
 

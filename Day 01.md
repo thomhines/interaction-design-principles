@@ -1,4 +1,4 @@
-ART 299 - Day 1
+Day 1
 =======================================
 
 1. Introductions
@@ -23,12 +23,11 @@ CLASS
 
 ### Introductions
 - Name
+- What do you like about design?
 - Coolest interactive thing you found over the summer
 - Why are you here? What do you hope to learn? (Objectives)
 
 
-### Syllabus
-- Point out that this class covers 400-level Interaction Requirement (replaces 440)
 
 ### Housekeeping
 - Set up WordPress
@@ -38,12 +37,39 @@ CLASS
 
 
 
+### Sites vs. Apps
+
+Split students into groups and have them discuss whether or not these things are sites or apps:
+
+- Dropbox
+- Basecamp
+- Netflix
+- Hulu
+- Flickr
+- Tumblr
+- WordPress
+- Evernote
+- Mint
+- PayPal
+- New York Times
+- Kayak
+- Delta.com
+- Etsy
+- iCloud
+- Gap.com
+- Google.com
+
+
+Then answers these questions:
+- How would you define a web app? A web site?
+
+- Describe what reasons you would choose to make a certain product into a web site, a web app, or a native app.
+
 
 
 ### Introduce Project 1
 
 #### Examples
-- [Redsgned](http://redsgned.com/)(List of tons of redesigned projects/sites)
 - [Facebook Redesign](http://nerby.com/project/facebook/)
 - [Wikipedia Redesign Concept](http://wikipedia.gkvasnikov.com/)
 - [The Future of Airline Websites](http://www.f-i.com/fi/airlines/)
@@ -67,20 +93,22 @@ CLASS
 - [IMDB](https://dribbble.com/shots/472078-IMDB-unofficial-redesign)
 - [Amazon](https://dribbble.com/shots/464528-Amazon-com-redesign)
 - [iTunes](http://kurocha.blogspot.jp/)
-- [MIcrosoft](http://collinhartigan.com/microsoft-redesign/)
+- [Microsoft](http://collinhartigan.com/microsoft-redesign/)
 - [Photoshop](https://www.behance.net/gallery/19600227/Photoshop-redesign) Maybe don't include?
+- [Redsgned](http://redsgned.com/)(List of tons of redesigned projects/sites)
 
 
 
 HW
 ---------------------------------------
 
-Welcome to the class, everyone! We'll start with some light homework, just to get moving into Project 1. Remember, post ALL of your homework to the blog!
+Welcome to the class, everyone! We'll start with some light homework, just to get moving into Project 1.
 
+OR [Redesigning CodePen](http://codepen.seesparkbox.com/)
 
 1. **Read this Article**
 
-	[Dude, I Redesigned Facebook](http://will-grounds.roon.io/dude-i-redesigned-facebook) 
+	[How to do a Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
 	
 	Be prepared to talk about this stuff next class! There will be a quiz!
 
@@ -89,11 +117,15 @@ Welcome to the class, everyone! We'll start with some light homework, just to ge
 
 	It can be any sites off the list on the Project 1 Brief, or choose your own. You'll probably have the most luck with a site that you use regularly. You're picking three just to have some back-ups. Post links to all three to the blog.
 	
-	Here are the links I showed today in class as inspiration:
-	- [Facebook Redesign](http://nerby.com/project/facebook/)
+	Here are a couple of the links I showed today in class as inspiration:
+	- [IMDB Redesign](https://medium.com/@gillesbertaux/redesigning-imdb-2e9e865dd83)
 	- [The Future of Airline Websites](http://www.f-i.com/fi/airlines/)
 
 
 3. **3 Favorite Sites**
 	
-	Help us see what you like on the internet. Post screenshots and links to your three favorite websites (for any good reason) and write a paragraph or two on each for why it is.
+	Help us see what you like on the internet. Post screenshots and links to your three favorite websites and write a paragraph or two on each for why.
+
+
+### Useful Links
+- [Redsgned](http://redsgned.com/)(List of tons of redesigned projects/sites) - This site has a ton of website redesigns to look through. 

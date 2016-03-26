@@ -43,6 +43,7 @@ Here's your homework for next class:
 
 	It can be any kind of game. Just play one. And do your best to win. :)
 
+	If you want a couple examples of games that induce flow in a short amount of time, you might try [Crossy Road](http://www.crossyroad.com/), [Ninja Run](http://www.kongregate.com/games/YailenkoGames/ninja-run) or [Canabalt](http://www.mofunzone.com/games/canabalt.html). A couple non-free but even better examples are [Monument Valley](http://www.monumentvalleygame.com/) and [Alto's Adventure](http://altosadventure.com/). 
+
 
 	
-
