@@ -1,4 +1,4 @@
-ART 299 - Day 9
+Day 9
 =======================================
 
 1. Start converting to Prototyping tool
@@ -43,6 +43,12 @@ One-on-one. Switch users at least once.
 ### Practice Presentations
 
 Practice in front of small group. Get feedback.
+
+Comment from the perspective of:
+- A user
+- The owner of the site
+- A designer
+
 
 ### Work
 

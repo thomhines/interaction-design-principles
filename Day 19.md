@@ -1,4 +1,4 @@
-ART 410 - Day 19
+Day 19
 =======================================
 
 1. Full Class Crit
@@ -12,10 +12,11 @@ PREP
 CLASS
 ---------------------------------------
 
+## NO CLASS - Memorial Day
+
 ### Full Class Crit 
 
 ### Teacher Evals
-
 
 HW
 ---------------------------------------

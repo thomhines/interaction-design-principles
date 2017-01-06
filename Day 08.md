@@ -58,50 +58,45 @@ I wouldn't say this is always the best way to frame a presentation, but this is 
 
 
 
-### Keynote Demo
-
-Note: For non-Apple folks, get them to sign up for iCloud and create their presentation there
-
-- Download Keynote
-- Download this [example file](http://teaching.thomhines.com/resources/PS%20Comps%20Example.psd)
-	- **Open file in Illustrator, not Photoshop!!!**
-- Download keynote [demo file](http://teaching.thomhines.com/resources/keynote%20animations%20demo.zip) ([complete version](http://teaching.thomhines.com/resources/keynote%20animations%20demo%20-%20complete.zip))
-- Keynote techniques
-	- Adding elements (shapes, images, text)
-	- Placing elements
-	- Properties palette
-	- Duplicating frames and making sure elements line up from one page to the next
-	- Animations
-
 
 
 
 HW
 ---------------------------------------
 
-
 2. **Read [Visceral Apps and You](http://mysterioustrousers.com/news/2013/3/25/visceral-apps-and-you)** OR NOT
 
 
-3. **Keep Going on Designs**
-
-	We have a little over a week, but I'm expecting greatness from these projects. Keep up the good work!
+I didn't expect to give you guys so many tasks today, but most of these should be pretty quick. The bulk of your time should be on making your Project 1 comps, but do the other stuff too so you'll be all set when we turn in the final files. Plus, do it because I said so. :)
 
 
-1. **Download Keynote**
+1. **Mission Statement**
 
-	If you don't have it already, make sure you download and install Keynote. If you have a PC, you might have to do some of your presentation at the computer lab, or start looking at alternatives. You'll definitely want to have a presentation that can convincingly portray the full user experience of your web app/site.
-
-
-2. **Finish InVision Prototype**
-
-	Make it workable enough so that others can use your app and achieve your personas' objectives without your help, even if some of your pages aren't fully designed and polished.
+	Create a 1 or 2-sentence mission statement for you app to act as an anchor for all of your design decisions moving forward. 
 
 
-4. **Create a Script for Project 1 Presentation**
+2. **Keep Going on Designs**
 
-	Start to outline what you is most important about your redesign and organize it into a script that addresses some of the issues that we talked about today in class (Build empathy; define your audience; provide analysis; indicate main features; demonstrate effectiveness). Don't just walk us through the steps necessary to log in or use your site; use those steps to illuminate *why* we would want to and how it is better than the alternative. You don't have to write a script verbatim, but you should have a clear outline for how you want to discuss your work. Post this to the blog.
+	We have just under two weeks, but I'm expecting greatness from these projects. Keep up the good work!
+
+	
+3. **Create InVision Prototype**
+
+	By next Monday I want you to have the start of clickable prototype of your Project 1 in InVision. Using the Share button, post a link off your InVision prototype to the blog.
+
+
+4. **Play With Keynote**
+
+	Like I said in class, create at least one animation in your app that shows a transition from one state to another. There are some good examples in the links below.
+
+
+5. **Create a Script Outline for Project 1 Presentation**
+
+	First, read [13 Ways Designers Screw Up Presentations](http://muledesign.com/2014/09/13-ways-designers-screw-up-client-presentations). Then, start to outline what you is most important about your redesign and organize it into a script that addresses some of the issues that we talked about today in class (Build empathy; define your audience; provide analysis; indicate main features; demonstrate effectiveness). Don't just walk us through the steps necessary to log in or use your site; use those steps to illuminate *why* we would want to and how it is better than the alternative. You don't have to write a script verbatim, but you should have a clear outline for how you want to discuss your work. Post this to the blog.
+
 
 ### Useful Links
-- [Animating with Keynote](https://robots.thoughtbot.com/animating-with-keynote)
-- [Get Keynote for Free](http://lifehacker.com/get-iwork-for-free-on-any-os-x-mavericks-machine-1469700860)
+Good examples of UI animation:
+- [CAPPTIVATE](http://capptivate.co/)
+- [UI Movement](http://uimovement.com/)
+- [Use Your Interface](http://useyourinterface.com/)

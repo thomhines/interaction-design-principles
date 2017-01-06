@@ -45,16 +45,20 @@ HW
 ---------------------------------------
 
 
-1. **Read this [Article](https://ericzimmerman.wordpress.com/2014/08/11/how-i-teach-game-design-lesson-2-broken-games-and-meaningful-play/)**
 
-
-2. **Create 3 Game Ideas**
+1. **Create 3 Game Ideas**
 
 	Based on your two chosen game mechanics, create three game ideas that would cause your chosen emotion in your game's players. You don't have to create all the rules; instead, write a one paragraph synopsis of each. These games can involve special pieces (tokens, dice, cards, maps, boards, tiles, etc.). Each group only needs to post one set of 3 ideas.
 
 
-3. **Refine 1 Game**
+2. **Refine 1 Game**
 
 	Take one of the game ideas and start to form a game that integrates your mechanics and emotions in a *meaningful* way. Post your rules to the blog (once for each group)—along with any images that might be necessary—and bring all necessary game items to the next class.
+
+
+
+3. **Playtest Your Game**
+
+You don't have to read it all, but this is [a great reading on Playtesting games](http://teaching.thomhines.com/resources/Playtesting_Game_Design_Workshop.pdf). At the very least, check out Page 263 for a good cheat sheet on questions to ask when conducting a playtest.
 
 	

@@ -1,73 +1,90 @@
 Course Outline
 =======================================
 
-Week 1 - Web Foundations
+Week 1 - Objectives and User Flow
 ---------------------------------------
 ### Day 1
 - Syllabus
-- Introduce Project 1 (Due 4/21, beginning of week 4)
-- Discuss Web Apps vs. Web Sites
+- Discuss Interactivity (in general)
+- Introduce Project 1 (Due end of week 5)
+- Read Article on Behavior Design while I load people into WordPress
+- Discuss app ideas using different contstraints
 
 #### HW
-- Pick Web Site
-- Initial Ideation and Research
-
+- Read Chap. 1, write 3 most profound details to the blog
+- Create list of 3 app ideas, with three main objectives/features each, send to email list
+- Get 3x5 index cards (blank or gridded)
 
 
 ### Day 2
-- Objectives Survey
+- Talk about Chap. 1
+- Talk about Project 1 apps and objectives (3 objectives per app)
 - User Flows
+- User Flow Paper Prototypes
+- InVision/POP demo
+
 
 #### HW
-- Research and Objectives
-- Wireframes
+- Read Chap. 5
+- Read Principles of Interface Design
+- Create User Flow Prototype, post to blog
 
 
 
-Week 2 - Design Patterns and Animation
+Week 2 - Design Patterns 
 ---------------------------------------
 ### Day 3
+- Discuss Chap. 5
+- Wireframes
 - Design Patterns and UI Kits
 
 
 #### HW
-- Start Making Comps
-- User Flow
-- Website Review
+- Read Chap. 4
+- Wireframes
+- Mood Boards
+- Improve User Flow
 
 
 
 
 ### Day 4
-- Keynote Animations Demo
+- Discuss Chap. 4
+- Discuss Design Patterns
+- Discuss Mood Boards
+
 
 #### HW
-- Convert your interface into Keynote
-- Create 3 Design Directions
+- Create 3 Design Directions (2 screens each)
+- Sign up and be a test user
 
 
-Week 3 - Design Trends
+Week 3 - Presentation and Animation
 ---------------------------------------
 ### Day 5
 - Full Class Crits
 
 #### HW
-- Read Article on Behavior Design
 - Refine Comps
 
 
 
 ### Day 6
+- Keynote Demo
 - Work Session and Feedback
 
 #### HW
+- Check out examples of transitions, add to mood boards
+- Storyboard app flow
+- Practice keynote animations (save as video, post vimeo videos to blog)
 - Continue Work on Project 1
 
 
 
-Week 4 - Skills and Tools
+Week 4 - Work
 ---------------------------------------
 ### Day 7 
+- Look over videos
 - Full Class Crit
 
 #### HW
@@ -75,7 +92,6 @@ Week 4 - Skills and Tools
 
 
 ### Day 8 
-- Designing for the Web in Illustrator
 - Presenting UI
 
 #### HW 
@@ -93,8 +109,7 @@ Week 5 - Work
 - Work Session
 
 #### HW 
-- Continue Work on Project 1
-- Create Presentation Slides
+- Finish Project 1
 
 
 
@@ -103,7 +118,9 @@ Week 5 - Work
 - Work Session
 
 #### HW 
-- Finish Project 1
+- Project 1 Self-Evaluation
+- Read Article Emotion and Flow
+- Play a Game
 
 
 
@@ -111,15 +128,6 @@ Week 5 - Work
 Week 6 - Games as Interactive Systems
 ---------------------------------------
 ### Day 11
-- Project 1 Critique
-
-#### HW 
-- Project 1 Self-Evaluation
-- Read Article Emotion and Flow
-- Play a Game
-
-
-### Day 12
 - Discuss Flow
 - Play Games
 	- Bananagrams
@@ -128,10 +136,14 @@ Week 6 - Games as Interactive Systems
 
 #### HW 
 - Read Rules of Play, Chapter 6 (Interactivity)
-- Watch Indie Movie
 - Play a strategy game
 
 
+### Day 12
+
+
+#### HW 
+- Watch Indie Movie
 
 
 Week 7 - User Agency and Meaningful Choice
@@ -207,12 +219,8 @@ Week 10 - *Work*
 - Work Day
 
 #### HW
-- Continue with Project 2
+- Finish Project 2
 
 
 ### Day 20
-- Play Testing
-- Work Day
-
-#### HW
-- Continue with Project 2
+- Final Crits

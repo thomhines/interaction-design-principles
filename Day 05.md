@@ -17,40 +17,6 @@ PREP
 CLASS
 ---------------------------------------
 
-### Quiz
-Based on Behaviors
-- What are the three elements necessary for someone to take an action? (motivation, ability, trigger)
-- What do you have to do to improve these three factors for your users? (understand your users, ask the "whys" to get to the reasons behind their needs)
-- How can we increase motivation? (showing how great the product can be through photos or telling a good stroy)
-- How can we increase ability? (focus on who your user is, and provide them means of fixing the one factor standing in the way: Money, Time, Energy, Social Pressure, Familiarity, and Brain Cycles)
-- How can we increase triggers? (gamification)
-
-### Go Over Objectives of your project
-
-- What is the main objective of your site?
-- What is the main problem with your site that you are trying to solve?
-- What are you doing to solve it?
-
-
-### Illustrator Web Guide?
-[Web Design with Illustrator](http://www.smashingmagazine.com/2011/01/17/productive-web-design-with-adobe-illustrator/)
-
-- Paragraph/Character Styles
-- Symbols/Symbols Libraries
-	- Use to create multiple copies of same page with slight differences
-	- 9-slice scaling
-	- [Flat Web UI Illustrator Symbol Library](http://teaching.thomhines.com/resources/Flat%20Web%20UI.ai)
-	- [GUI Web Design Symbols](http://www.webalys.com/design-interface-application-framework.php)
-- Images (How to replicate some of the functionality of InDesign, such as masks)
-- Textures
-	- Appearance palette > Apply additional fills/strokes
-	- Swatches > General > Textures
-	- Transform palette > Drop-down options menu > Transform Object only (to keep patterns from stretching as objects are resized)
-- SVG
-
-
-
-
 ### Go Over Designs as a Whole Group
 
 

@@ -1,4 +1,4 @@
-Day 13
+Day 12
 =======================================
 
 
@@ -28,13 +28,6 @@ Based on Rules of Play, Chapter 6 (Interaction)
 
 
 
-### Discuss Indie Game: The Movie
-
-- In Super Meat Boy (~36min), the designer talked about level design, such as making a level that is just a long gap that requires running to get over, or a solid wall that requires wall climbing. This builds skills through design (instead of text), and gives the user a bigger sense of mastery since they figured it out themselves.
-
-- Fez: It's easy to get caught up in endless iterations. Don't let the perfect become the enemy of the necessary.
-
-
 
 
 ### Discuss Interactivity, Game Mechanics, and Meaningful Choice
@@ -45,50 +38,15 @@ Based on Rules of Play, Chapter 6 (Interaction)
 	- What choices do the users have?
 	- Do the actions feel meaningful despite that?
 
-- Love Letter
+- Love Letter (or Dalmuti)
 	- What choices do the users have?
 	- Are there times where choices are restricted?
 	- How are these choices meaningful?
 	- What are the game mechanics? What are the types of interactions (according to the four modes)?
 
-- Dominion
-	- What choices do the users have?
-	- What are the mechanics of the game?
-
-
 
 ### Play Testing
 Split Groups up into teams of 3, and then have them play test their games.
-
-
-Team 1: 
-
-Elya
-Denise
-Christina
-Brad
-
-
-
-Team 2: 
-
-Shannon
-Jamon
-Rudy
-
-
-Team 3: 
-
-Cameron
-Sam
-Sofia
-Collin
-
-
-Team 4: 
-Richard
-Erin
-Steph
 
 
 
@@ -107,12 +65,13 @@ NOTE: Games should be able to be played in 20 minutes!
 HW
 ---------------------------------------
 
-1. **Create a Game**
+1. **[Read This Article on Making Shitty Game Prototypes](https://medium.com/maxistentialism-blog/prototyping-secret-hitler-4ef23ccf727b#.62fkcn630)**
 
-	As a team, come up with a game that uses both dice and cards *effectively*. Remember what we talked about in class regarding what role each of those mechanics has on how a player plays. Beyond that, consider how you can use time, strategy, public/private information, meaningful choice, different interactive modes, etc. You aren't restricted from using other games' pieces, but if you build them into the rules, make sure you bring them to class so we can play test with them.
+2. **[Read This Other Article](https://ericzimmerman.wordpress.com/2014/08/11/how-i-teach-game-design-lesson-2-broken-games-and-meaningful-play/) Then Fix a broken game**
 
+This lesson comes from the author of the textbook we read from over the weekend. The assignment he poses to his students (and which I pose to you) is to fix a broken game. Make a better system. Insert meaningful choices. Take one of the games mentioned in the post and then find some way to make it less sucky. As opposed to the author, though, I'm totally fine with you taking your ideas far from the original concept. Keep some kind of connection, but make the best game you can in two days.
 
-
+And have fun!
 
 
 

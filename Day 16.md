@@ -67,7 +67,7 @@ Nice work today, guys! I *love* the ideas that you guys are playing with so far,
 
 3. **Play Test Your Game**
 
-	After you've updated your rules, play the game yourselves, and then find a small group of friends or strangers to try your game as well. Remember, help your play testers understand the explicit rules of your game, but try to stay away from giving implicit rules or strategies for winning. If they don't come out on their own, then that's worth noting. Take notes on your observations and post them to the blog.
+	After you've updated your rules, play the game yourselves, and then find a small group of friends or strangers to try your game as well. Remember, help your play testers understand the explicit rules of your game, but try to stay away from giving implicit rules or strategies for winning. If they don't come out on their own, then that's worth noting. Take notes on your observations and *post them to the blog*.
 
 
 4. **Group Evaluations**

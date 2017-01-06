@@ -1,7 +1,5 @@
-ART 410 - Day 17
+Day 17
 =======================================
-
-1. No Class - Memorial Day
 
 
 PREP
@@ -12,12 +10,12 @@ PREP
 CLASS
 ---------------------------------------
 
-### No Class - Memorial Day
+Play Test
 
 
 HW
 ---------------------------------------
 
-1. Finish the Project!
+1. Work It!
 
 

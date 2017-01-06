@@ -79,6 +79,12 @@ Make a [repeaterrrr](repeaterrrr.com) timer that includes time for feedback?
 
 HW
 ---------------------------------------
+
+That was *fun* today. There are some great ideas in the mix, and you guys are really great at giving constructive feedback to your classmates. I CAN'T WAIT to see how your games turn out. 
+
+See you all next class!
+
+
 1. **Strategy Game Variants**
 
 	Create two variants on your game that add to or heighten strategy within your game. Remember the difference between tactics and strategy. Focus on player choices that can have more long-term effects within the game. How can you control the effects of a player's actions? How can a player use their choices to create a different, more favorable state of the game? Write these game rules along with any necessary images and diagrams and post them to the blog.
@@ -89,9 +95,14 @@ HW
 	Write 2-3 paragraphs that describe the world in which your game takes place. What is the central conflict? Who are the main characters? What features of your world drive the action of the game? Post this to the blog as well.
 
 
+3. **Create Bullet-Point Version of Your Game**
+
+	Without getting too much into the weeds and brambles, write down the main aspects of what your game is about. This should include overarching motives and basic mechanics, what the goal is, and why players are doing what they're doing. The point of this exercise is to create a cohesive and understandable framework for your game, one that people can pick up and "get" in 30 seconds or less.
+
+
 3. **Bring Game Materials**
 
-	Make sure you bring whatever you need in order to make and play your game next class. None of the materials need to be designed or anything, but you should have enough to play through your game by the end of the class period.
+	Refine your game and bring it in. Make sure you bring whatever you need in order to make and play your game next class. None of the materials need to be pretty or anything, but you should have enough to play through your game by the end of the class period.
 
 
 
